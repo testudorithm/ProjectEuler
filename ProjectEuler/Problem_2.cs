@@ -17,7 +17,7 @@ namespace ProjectEuler
 
         public static int findSum(int limit)
         {
-
+            
             int i = 1, j = 2, sum = 0, mem;
 
             for (; ; )
