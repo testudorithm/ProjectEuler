@@ -1,2 +1,7 @@
 c:\users\enes\documents\visual studio 2013\Projects\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.exe.config
 C:\Users\enes\Documents\GitHub\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.exe.config
+C:\Users\enes\Documents\GitHub\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.exe
+C:\Users\enes\Documents\GitHub\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.pdb
+C:\Users\enes\Documents\GitHub\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.csprojResolveAssemblyReference.cache
+C:\Users\enes\Documents\GitHub\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.exe
+C:\Users\enes\Documents\GitHub\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.pdb

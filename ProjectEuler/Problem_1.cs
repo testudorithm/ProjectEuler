@@ -16,7 +16,7 @@ namespace ProjectEuler
 
 				int inputNum = Convert.ToInt32(Console.ReadLine ());
 
-				Console.WriteLine("First Problem's result : " + MainClass.findSum(inputNum));
+                Console.WriteLine("First Problem's result : " + Problem_1.findSum(inputNum));
 
 				//1000 -> 233168
 
