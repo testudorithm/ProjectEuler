@@ -8,12 +8,12 @@ namespace ProjectEuler
 {
     class Problem_2
     {
-        public static void Main(string[] args)
-        {
+        //public static void Main(string[] args)
+        //{
 
-            Console.WriteLine("2. Problem's result: " + Problem_2.findSum(4000000));
+        //    Console.WriteLine("2. Problem's result: " + Problem_2.findSum(4000000));
 
-        }
+        //}
 
         public static int findSum(int limit)
         {

@@ -8,15 +8,15 @@ namespace ProjectEuler
 {
     class Problem_3
     {
-        public static void Main(string[] args)
-        {
-            long number = 600851475143L;
+        //public static void Main(string[] args)
+        //{
+        //    long number = 600851475143L;
 
-            Console.WriteLine("Result: " + countResArr(number));
+        //    Console.WriteLine("Result: " + countResArr(number));
 
-            Console.ReadLine();
+        //    Console.ReadLine();
 
-        }
+        //}
 
         public static string countResArr(long x)
         {
