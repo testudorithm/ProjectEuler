@@ -12,11 +12,13 @@ namespace ProjectEuler
         
             //test the problems here//
 
-            foreach (int x in Problem_4.getLargestTwo3Digits()) {
+            //foreach (int x in Problem_4.getLargestTwo3Digits()) {
 
-                Console.Write(x + " ");
+            //    Console.Write(x + " ");
             
-            }
+            //}
+
+            Console.WriteLine("Result : " + Problem_12.findResult(500));
 
             Console.ReadLine();
 
