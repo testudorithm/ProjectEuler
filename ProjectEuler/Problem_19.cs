@@ -46,21 +46,21 @@ namespace ProjectEuler
 
             }
 
-            //countTotalSunday(totalDays)
+            //countTotalSunday(totalDays) @@extra
 
             return dayCounter;
         }
 
-        public static int countTotalSunday(int x){
+        //public static int countTotalSunday(int x){
 
-            int expectNum = x % 7;
-            int totalSunday = (x - expectNum) / 7;
+        //    int expectNum = x % 7;
+        //    int totalSunday = (x - expectNum) / 7;
 
-            if (expectNum == 6)
-                totalSunday++;
+        //    if (expectNum == 6)
+        //        totalSunday++;
 
-            return totalSunday;
-        }
+        //    return totalSunday;
+        //}
 
     }
 }
