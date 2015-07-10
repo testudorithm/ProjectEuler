@@ -18,7 +18,7 @@ namespace ProjectEuler
             
             //}
 
-            Console.WriteLine(Problem_17.findResult(1000));
+            Console.WriteLine(Problem_19.findResult());
 
             Console.ReadLine();
 
